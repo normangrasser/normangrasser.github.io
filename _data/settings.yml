@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Mria
+title: "Norm's Story"
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Mria is a multipurpose blog theme for Jekyll
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -12,8 +12,8 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+#    - title: 'Blog'
+#      url: '/blog/'
     - title: 'Authors'
       url: '/authors/'
     - title: 'Videos'
@@ -24,31 +24,31 @@ menu__settings:
         title: 'About'
       - url: '/contact/'
         title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+#      - url: '/elements/'
+#        title: 'Elements'
 
 
 #-------------------------------
 # Hero Settings
 hero:
   enable: true
-  hero__title: Thoughts, stories and ideas.
-  hero__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
+  hero__title: ""
+  hero__description: Dedicated to the memory of Norman Grasser.
   hero__image: # You can add hero image. For example '/images/06.jpg'
 
 
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Alena Curtis
-  author__bio: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
+  author__name: Allen Grasser
+  author__bio: "A husband, father, and amatuer geniologist. My life has been dedicated to finishing a family tree project started by my brother Norman."
   author__avatar: /images/01-1.jpg
 
 
 #-------------------------------
 # Blog Section Settings
 blog__settings:
-  enable: true
+  enable: false
   blog__title: Latest Posts
   blog__description:
 
@@ -56,7 +56,7 @@ blog__settings:
 #-------------------------------
 # Videos Section Settings
 videos__settings:
-  enable: true
+  enable: false
   videos__title: Latest Videos
   videos__description:
 
@@ -64,7 +64,7 @@ videos__settings:
 #-------------------------------
 # Tag Section Settings
 tag__settings:
-  enable: true
+  enable: false
   tag: travel # To display the tag section, specify your favorite tag.
 
 
@@ -83,7 +83,7 @@ author__section:
 #-------------------------------
 # Newsletter Settings
 mailchimp__settings:
-  enable: true
+  enable: false
   mailchimp__title: Get interesting news
   mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
@@ -94,7 +94,7 @@ mailchimp__settings:
 
 #-------------------------------
 # Footer Settings
-footer__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
+footer__description: "Requisat in Pace"
 
 
 # Social Links
