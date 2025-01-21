@@ -18,12 +18,12 @@ menu__settings:
       url: '/authors/'
 #    - title: 'Videos'
 #      url: '/videos/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
+#    - title: 'Pages'
+#      submenu:
+#      - url: '/about/'
+#        title: 'About'
+#      - url: '/contact/'
+#        title: 'Contact'
 #      - url: '/elements/'
 #        title: 'Elements'
 
