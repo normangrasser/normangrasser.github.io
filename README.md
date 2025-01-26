@@ -71,3 +71,12 @@ Before using the Mria theme, please read the attached documentation.
 ### Support
 
 <p>If you have any questions, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>
+
+### Post Helpers
+
+File name ends with .markdown suffix and starts with YYYY-MM-DD suffix.
+
+To generate timestamp in the file, run
+```
+date +"%Y-%m-%d %H:%M:%S %z"
+```
