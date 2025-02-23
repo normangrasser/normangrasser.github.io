@@ -9,6 +9,8 @@ tags_color: '#a149cb'
 featured: true
 ---
 
+<img src="/images/19791224_Norman.jpg">
+
 # Norm's Story
 
           
