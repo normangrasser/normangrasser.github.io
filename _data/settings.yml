@@ -12,20 +12,18 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-#    - title: 'Blog'
-#      url: '/blog/'
+    - title: 'Blog'
+      submenu:
+        - url: '/blog/findagravebackup'
+          title: 'FindAGrave Entry'
+        - url: '/blog/memorial-plans'
+          title: 'Rheinlander Memorial Plans'
+        - url: '/blog/ramapo-speech'
+          title: 'Finding Norm: The 43 Year Journey to Indentify Rheinlander John Doe 1980'
+        - url: '/blog/media-coverage'
+          title: 'Media Coverage'
     - title: 'Authors'
       url: '/authors/'
-#    - title: 'Videos'
-#      url: '/videos/'
-#    - title: 'Pages'
-#      submenu:
-#      - url: '/about/'
-#        title: 'About'
-#      - url: '/contact/'
-#        title: 'Contact'
-#      - url: '/elements/'
-#        title: 'Elements'
 
 
 #-------------------------------

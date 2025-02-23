@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Memorial Plans
+title: Rheinlander Memorial Plans
 description: Monument Drafted Plans
 date:   2025-01-24 18:30:29 -0800
 author: jgrasser
