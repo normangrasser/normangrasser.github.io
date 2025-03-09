@@ -18,6 +18,8 @@ menu__settings:
           title: 'Finding Norm: The 43 Year Journey to Indentify Rheinlander John Doe 1980'
         - url: '/blog/webinar'
           title: 'Ramapo Webinar'
+        - url: '/blog/rigg-2024-conference'
+          title: 'RIGG 2024 Conference'
         - url: '/blog/time-capsule'
           title: 'Time Capsule'
         - url: '/blog/memorial-plans'
