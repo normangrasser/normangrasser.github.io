@@ -4,8 +4,6 @@ title: Find A Grave Entry
 description: Backup of the findagrave.com entry maintained by Allen Grasser
 date:   2025-01-25 19:00:41 -0800
 author: agrasser
-tags:   [workflow]
-tags_color: '#a149cb'
 featured: true
 ---
 

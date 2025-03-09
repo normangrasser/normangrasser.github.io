@@ -4,8 +4,6 @@ title: RIGG 2024 Conference
 description: Pictures from the RIGG 2024 Conference
 date:   2025-03-09 08:26:29 -0800
 author: jgrasser
-tags:   [workflow]
-tags_color: '#a149cb'
 featured: true
 ---
 

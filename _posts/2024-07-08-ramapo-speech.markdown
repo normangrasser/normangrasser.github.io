@@ -4,8 +4,6 @@ title: 'Finding Norm: The 43 Year Journey to Indentify Rheinlander John Doe 1980
 description: Norms Story
 date:   2024-07-08 18:30:29 -0800
 author: agrasser
-tags:   [workflow]
-tags_color: '#a149cb'
 featured: true
 ---
 

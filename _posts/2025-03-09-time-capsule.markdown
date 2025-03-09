@@ -4,8 +4,6 @@ title: Time Capsule
 description: Belongings, Case Files, and Memorabilia to be buried in Rheinlander.
 date:   2025-03-09 07:26:29 -0800
 author: jgrasser
-tags:   [workflow]
-tags_color: '#a149cb'
 featured: true
 ---
 
