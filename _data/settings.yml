@@ -12,7 +12,7 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Blog'
+    - title: 'Pages'
       submenu:
         - url: '/blog/findagravebackup'
           title: 'FindAGrave Entry'
