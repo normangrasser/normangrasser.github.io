@@ -22,6 +22,8 @@ menu__settings:
           title: 'Finding Norm: The 43 Year Journey to Indentify Rheinlander John Doe 1980'
         - url: '/blog/media-coverage'
           title: 'Media Coverage'
+        - url: '/blog/time-capsule'
+          title: 'Time Capsule'
     - title: 'Authors'
       url: '/authors/'
 
