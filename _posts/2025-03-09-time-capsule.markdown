@@ -28,9 +28,7 @@ featured: true
     <img src="/images/casefiles/1980-0365%20%2824%29%20Blue%20Sweater%20%5BFront%5D.JPG" loading="lazy">
     <img src="/images/casefiles/1980-0365%20%2825%29%20Blue%20Sweater%20%5BBack%5D.JPG" loading="lazy">
     <img src="/images/casefiles/1980-0365%20%2826%29%20Black%20Corduroy%20Pants%20%5BFront%5D%20%281%29.jpg" loading="lazy">
-    <img src="/images/casefiles/1980-0365%20%2826%29%20Black%20Corduroy%20Pants%20%5BFront%5D.JPG" loading="lazy">
     <img src="/images/casefiles/1980-0365%20%2827%29%20Black%20Corduroy%20Pants%20%5BBack%5D%20%281%29.jpg" loading="lazy">
-    <img src="/images/casefiles/1980-0365%20%2827%29%20Black%20Corduroy%20Pants%20%5BBack%5D.JPG" loading="lazy">
     <img src="/images/casefiles/1980-0365%20%2828%29%20White%20Underwear%20%5BBriefs%20%26%20Long%20John%20pants%20-%20Front%5D.JPG" loading="lazy">
     <img src="/images/casefiles/1980-0365%20%2829%29%20White%20Underwear%20%5BBriefs%20%26%20Long%20John%20pants%20-%20Back%5D.JPG" loading="lazy">
     <img src="/images/casefiles/1980-0365%20%283%29%20Ear%20Muffs%20%281%29.JPG" loading="lazy">
