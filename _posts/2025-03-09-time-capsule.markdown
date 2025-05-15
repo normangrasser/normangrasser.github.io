@@ -9,6 +9,13 @@ featured: true
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
+    <img src="/images/Timecapsule_burial.jpg" loading="lazy">
+  </div>
+  <em>Time Capsule Burial</em>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery gallery--post">
     <img src="/images/HERITAGE_Time_Capsule.jpg" loading="lazy">
     <img src="/images/HERITAGE_Time_Capsule_Specifications.jpg" loading="lazy">
   </div>
