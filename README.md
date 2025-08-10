@@ -74,9 +74,19 @@ Before using the Mria theme, please read the attached documentation.
 
 ### Post Helpers
 
+## File Names
+
 File name ends with .markdown suffix and starts with YYYY-MM-DD suffix.
 
 To generate timestamp in the file, run
 ```
 date +"%Y-%m-%d %H:%M:%S %z"
+```
+
+## Gallery Generation from Flikr
+
+1. Download the json response from viewing an album.
+2. Generate photo gallery using the command.
+``` 
+cat ~/2025May7TimeCapsuleBurialinRhinelanderWI.json  | jq '.photoset.photo[].url_c_cdn' | while read line; do echo "<img src=$line loading=\"lazy\">"; done
 ```
