@@ -26,6 +26,8 @@ menu__settings:
           title: 'Rheinlander Memorial Plans'
         - url: '/blog/time-capsule-burial'
           title: 'Time Capsule Burial'
+        - url: '/blog/norms-funeral-at-all-saints'
+          title: "Norm's Funeral At All Saints Cemetery"
         - url: '/blog/findagravebackup'
           title: 'FindAGrave Entry'
         - url: '/blog/media-coverage'
