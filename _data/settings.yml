@@ -24,6 +24,8 @@ menu__settings:
           title: 'Time Capsule'
         - url: '/blog/memorial-plans'
           title: 'Rheinlander Memorial Plans'
+        - url: '/blog/time-capsule-burial'
+          title: 'Time Capsule Burial'
         - url: '/blog/findagravebackup'
           title: 'FindAGrave Entry'
         - url: '/blog/media-coverage'
