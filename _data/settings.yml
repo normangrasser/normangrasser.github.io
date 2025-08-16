@@ -30,6 +30,8 @@ menu__settings:
           title: "Norm's Funeral At All Saints Cemetery"
         - url: '/blog/findagravebackup'
           title: 'FindAGrave Entry'
+        - url: '/blog/forest-home-cemetery-chronology'
+          title: 'Forest Home Cemetery Chronology'
         - url: '/blog/media-coverage'
           title: 'Media Coverage'
     - title: 'Authors'
