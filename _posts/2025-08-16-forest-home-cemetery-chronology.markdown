@@ -41,32 +41,21 @@ Chronology of Grave openings:
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
-<a href="https://drive.google.com/uc?export=view&id=1QJJvrDLbtVKJw-UUJ5cPH0Mi4DqKT_R0">
-    <img src="https://drive.google.com/thumbnail?id=1QJJvrDLbtVKJw-UUJ5cPH0Mi4DqKT_R0"
-    style="width: 500px; max-width: 100%; height: auto"
-    title="Click for the larger version." />
-</a>
-<a href="https://drive.google.com/uc?export=view&id=1QJJvrDLbtVKJw-UUJ5cPH0Mi4DqKT_R0">
-    <img src="https://drive.google.com/thumbnail?id=1QJJvrDLbtVKJw-UUJ5cPH0Mi4DqKT_R0"
-    style="width: 500px; max-width: 100%; height: auto"
-    title="Click for the larger version." />
-</a>
-<a href="https://drive.google.com/uc?export=view&id=1QJJvrDLbtVKJw-UUJ5cPH0Mi4DqKT_R0">
-    <img src="https://drive.google.com/thumbnail?id=1QJJvrDLbtVKJw-UUJ5cPH0Mi4DqKT_R0"
-    style="width: 500px; max-width: 100%; height: auto"
-    title="Click for the larger version." />
-</a>
-<a href="https://drive.google.com/uc?export=view&id=1QJJvrDLbtVKJw-UUJ5cPH0Mi4DqKT_R0">
-    <img src="https://drive.google.com/thumbnail?id=1QJJvrDLbtVKJw-UUJ5cPH0Mi4DqKT_R0"
-    style="width: 500px; max-width: 100%; height: auto"
-    title="Click for the larger version." />
-</a>
+    <img src="https://live.staticflickr.com/65535/54816650933_4a7e82202f_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54816392991_9fb539e67a_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54816726505_4546f342f8_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54816393106_7bfdb2e61e_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54816393096_bc1341367d_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54816648464_61cf34eba3_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54816726445_78fcce6735_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54816392981_b395e370b0_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54815544202_5e08701bdc_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54816650973_37d4f82beb_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54816392891_96345b4b0d_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54815544092_e37920cbfd_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54816726340_df8f309108_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54815544052_2b630a71f0_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54815544047_fd3d285f94_c.jpg" loading="lazy">
   </div>
   <em>Forest Home Cemetery</em>
 </div>
-
-<a href="https://drive.google.com/uc?export=view&id=1QJJvrDLbtVKJw-UUJ5cPH0Mi4DqKT_R0">
-    <img src="https://drive.google.com/thumbnail?id=1QJJvrDLbtVKJw-UUJ5cPH0Mi4DqKT_R0"
-    style="width: 500px; max-width: 100%; height: auto"
-    title="Click for the larger version." />
-</a>
