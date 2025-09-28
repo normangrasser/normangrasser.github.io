@@ -34,6 +34,8 @@ menu__settings:
           title: 'Forest Home Cemetery Chronology'
         - url: '/blog/media-coverage'
           title: 'Media Coverage'
+    - title: 'Medical Examiners Notebook'
+      url: '/blog/medical-examiners-notebook'
     - title: 'Authors'
       url: '/authors/'
 
