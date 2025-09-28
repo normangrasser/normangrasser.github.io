@@ -28,6 +28,8 @@ menu__settings:
           title: 'Time Capsule Burial'
         - url: '/blog/norms-funeral-at-all-saints'
           title: "Norm's Funeral At All Saints Cemetery"
+        - url: '/blog/advocacy-con'
+          title: "Advocacy Convention"
         - url: '/blog/findagravebackup'
           title: 'FindAGrave Entry'
         - url: '/blog/forest-home-cemetery-chronology'
