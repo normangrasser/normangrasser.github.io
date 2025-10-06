@@ -37,7 +37,7 @@ Chronology of Grave openings:
 	* Memorial Granite stone placed at foot of grave
 	* Image of St. Anthony, patron of “Missing Persons”
 
-* 2025 August  - Hour Glass Memorial Stone installed                                
+* 2025 September 24 - Hour Glass Memorial Stone installed
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
