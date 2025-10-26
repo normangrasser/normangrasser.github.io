@@ -32,6 +32,8 @@ featured: true
 
 7. [Great Country - A 1980s Oneida County Cold Case Has Been Solved; Body Identified After 43 Years](https://wdez.com/2023/12/15/a-1980s-oneida-county-cold-case-has-been-solved-body-identified-after-43-years/)
 
+8. [The Northwoods River News - He is Found!](https://rivernewsonline.com/news/2025/oct/10/he-is-found/)
+
 # General Internet Discussion
 
 1. [Unidentified Wiki](https://unidentified-awareness.fandom.com/wiki/Norm_Grasser)
