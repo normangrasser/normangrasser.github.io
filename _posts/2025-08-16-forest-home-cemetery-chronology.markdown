@@ -14,12 +14,6 @@ featured: true
 <div class="gallery-box">
   <div class="gallery gallery--post">
     <img src="https://live.staticflickr.com/65535/54881925578_f7772fd6f7_c.jpg" loading="lazy">
-    <img src="https://live.staticflickr.com/65535/54880835632_37727713a3_c.jpg" loading="lazy">
-    <img src="https://live.staticflickr.com/65535/54881704991_40d1a25d6f_c.jpg" loading="lazy">
-    <img src="https://live.staticflickr.com/65535/54880835597_e2cd009493_c.jpg" loading="lazy">
-    <img src="https://live.staticflickr.com/65535/54881925453_00fc520c14_c.jpg" loading="lazy">
-    <img src="https://live.staticflickr.com/65535/54881946764_835e186a85_c.jpg" loading="lazy">
-    <img src="https://live.staticflickr.com/65535/54881704941_53ac369916_c.jpg" loading="lazy">
   </div>
   <em>Monument Installation</em>
 </div>
@@ -69,6 +63,12 @@ Chronology of Grave openings:
     <img src="https://live.staticflickr.com/65535/54816726340_df8f309108_c.jpg" loading="lazy">
     <img src="https://live.staticflickr.com/65535/54815544052_2b630a71f0_c.jpg" loading="lazy">
     <img src="https://live.staticflickr.com/65535/54815544047_fd3d285f94_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54880835632_37727713a3_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54881704991_40d1a25d6f_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54880835597_e2cd009493_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54881925453_00fc520c14_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54881946764_835e186a85_c.jpg" loading="lazy">
+    <img src="https://live.staticflickr.com/65535/54881704941_53ac369916_c.jpg" loading="lazy">
   </div>
   <em>Forest Home Cemetery</em>
 </div>
