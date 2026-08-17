@@ -95,7 +95,7 @@ But in my head, I heard the last verse sounding like this...
 <blockquote>
 It‘s a missing brother, who had lost his way!
 But DNA found him, only 43 years too late!
-And isn‘t it Ironc! Don’t you think!
+And isn‘t it Ironic! Don’t you think!
 A little too... Ironic! And, yeah, I really do think!
 And who would’ve thought it figures!
 </blockquote>
