@@ -77,7 +77,7 @@ In 2023 my co-presenter, Ms. Traci Onders from Ramapo’s IGG Department was “
 
 ## Final Thoughts
 
-While driving through the “Great North Woods“ of Wisconsin, on my way to Rhinelander to retrieve my brother’s cremains, a song came on the radio. It was an older song from 1995 sung by a Canadian / American, [pause] singer / songwriter, who I believe, won a Grammy award for it.  Her name was Alanis Morisette. And the song was called: Ironic.
+While driving through the “Great North Woods“ of Wisconsin, on my way to Rhinelander to retrieve my brother’s cremains, a song came on the radio. It was an older song from 1995 sung by a Canadian / American, singer / songwriter, who I believe, won a Grammy award for it.  Her name was Alanis Morisette. And the song was called: Ironic.
 
 <iframe src="https://www.youtube.com/embed/Jne9t8sHpUc"></iframe>
 
